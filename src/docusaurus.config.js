@@ -138,10 +138,10 @@ module.exports = {
         {
           title: "更多资源",
           items: [
-            {
-              label: "项目博客",
-              to: "blog",
-            },
+            // {
+            //   label: "项目博客",
+            //   to: "blog",
+            // },
             {
               label: "个人博客",
               href: "https://www.newbe.pro",
