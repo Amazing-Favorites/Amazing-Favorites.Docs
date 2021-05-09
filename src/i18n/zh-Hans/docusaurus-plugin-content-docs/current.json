@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.someSidebar.category.项目简介": {
+    "message": "项目简介",
+    "description": "The label for category 项目简介 in sidebar someSidebar"
+  },
+  "sidebar.someSidebar.category.安装插件": {
+    "message": "安装插件",
+    "description": "The label for category 安装插件 in sidebar someSidebar"
+  },
+  "sidebar.someSidebar.category.使用指南": {
+    "message": "使用指南",
+    "description": "The label for category 使用指南 in sidebar someSidebar"
+  }
+}
