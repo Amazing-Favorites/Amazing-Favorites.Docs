@@ -2,7 +2,7 @@ name: qiniu publish
 on:
   push:
     branches:
-      # - master
+      # - main
       - publish
 
 jobs:

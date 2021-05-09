@@ -2,7 +2,7 @@ name: build site
 on:
   pull_request:
     branches:
-      - master
+      - main
       - develop
       - feature/docusaurus
   push:
