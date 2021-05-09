@@ -1,0 +1,38 @@
+name: qiniu publish
+on:
+  push:
+    branches:
+      # - master
+      - publish
+
+jobs:
+  build:
+    if: "! contains(toJSON(github.event.commits.*.message), '[ci skip]')"
+    name: Build docusaurus Site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12"
+      - name: install yarn
+        run: npm i -g --force yarn
+      - name: restore yarn
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          yarn install
+      - name: yarn build
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          yarn run build
+      - uses: actions/setup-java@v1
+        with:
+          java-version: "8" # The JDK version to make available on the path.
+          java-package: jdk # (jre, jdk, or jdk+fx) - defaults to jdk
+          architecture: x64 # (x64 or x86) - defaults to x64
+      - name: publish to qiniu
+        env:
+          JAVA_TOOL_OPTIONS: "-agentlib:hprof"
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          java -jar ../tools/qsuits-8.4.4.jar -process=qupload -path=build -rm-prefix=build/ -bucket=newbeaf -ak=${{ secrets.QINIU_AK }} -sk=${{ secrets.QINIU_SK }}
