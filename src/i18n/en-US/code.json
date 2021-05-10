@@ -1,10 +1,10 @@
 {
   "homepage.高效检索": {
-    "message": "Efficient retrieval",
+    "message": "Efficient search",
     "description": "The homepage 高效检索"
   },
   "homepage.高效检索.details": {
-    "message": "Provide efficient retrieval capabilities with keywords, tags, local languages, and more",
+    "message": "Provides efficient search features via keywords, tags, local languages etc.",
     "description": "The homepage 通过关键词、标记、本地语言等内容提供高效的检索功能"
   },
   "homepage.安全可控": {
@@ -12,7 +12,7 @@
     "description": "The homepage 安全可控"
   },
   "homepage.安全可控.details": {
-    "message": "Your data is in your own hands and no one else uses it",
+    "message": "Your data is under your own control, and no one else uses your data",
     "description": "The homepage 您的数据由您自己掌控，不存在任何其他人使用您的数据"
   },
   "homepage.多端支持": {
@@ -20,7 +20,7 @@
     "description": "The homepage 多端支持"
   },
   "homepage.多端支持.details": {
-    "message": "Easy to cross across multiple Chrome kernel browsers for quick and easy use",
+    "message": "Easy to cross over use in multiple Chrome kernel browsers, convenient and quick",
     "description": "The homepage 轻松在多款 Chrome 内核浏览器中跨越使用，方便快捷"
   },
   "theme.NotFound.title": {
@@ -36,7 +36,7 @@
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Shut down",
+    "message": "Close",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.paginator.navAriaLabel": {
