@@ -1,6 +1,6 @@
 ---
-title: "安装-Edge"
-description: "如何在 Microsoft Edge 浏览器中安装此插件"
+title: "Install-Edge"
+description: "How to install this plug-in in a Microsoft Edge browser"
 ---
 
 TBD
