@@ -8,11 +8,11 @@
     "description": "The label for category 项目简介 in sidebar someSidebar"
   },
   "sidebar.someSidebar.category.安装插件": {
-    "message": "Install the plug-in",
+    "message": "Install Extensions",
     "description": "The label for category 安装插件 in sidebar someSidebar"
   },
   "sidebar.someSidebar.category.使用指南": {
-    "message": "Use the guide",
+    "message": "Getting Started",
     "description": "The label for category 使用指南 in sidebar someSidebar"
   }
 }
