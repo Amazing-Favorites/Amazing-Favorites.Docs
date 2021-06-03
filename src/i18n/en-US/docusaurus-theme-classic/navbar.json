@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Amazing Favorites",
+    "description": "The title in the navbar"
+  },
+  "item.label.用户手册": {
+    "message": "User Manual",
+    "description": "Navbar item with label 用户手册"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
