@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-description: "Amazing Favorites is a browser plug-in that helps manage and search browser collections more efficiently"
+title: "Introduction to the project"
+description: "Amazing Favorites is a browser extension that helps manage and search browser collections more efficiently"
 slug: /
 ---
 
@@ -19,6 +19,6 @@ Quick search
 In addition, you can turn on some advanced cloud-based features in the Control Panel：
 
 1. Pinyin search is supported
-2. Supports cloud sync favorite labels
+2. Supports cloud sync favorite tags
 
 ![control panel](/images/20210605-003.png)
