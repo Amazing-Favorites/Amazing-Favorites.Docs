@@ -7,9 +7,9 @@
     "message": "Introduction",
     "description": "The label for category 项目简介 in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.安装插件": {
+  "sidebar.someSidebar.category.安装扩展": {
     "message": "Install Extensions",
-    "description": "The label for category 安装插件 in sidebar someSidebar"
+    "description": "The label for category 安装扩展 in sidebar someSidebar"
   },
   "sidebar.someSidebar.category.使用指南": {
     "message": "Getting Started",
