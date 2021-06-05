@@ -1,6 +1,6 @@
 ---
 title: "User privacy agreement"
-description: "You can use the User Privacy Agreement to design content and agreements on user data for the software"
+description: "You may use the User Privacy Agreement to include content and agreements on user data in the software"
 ---
 
 Dear users, welcome to this agreement：
@@ -16,7 +16,7 @@ Your privacy is important to us ("we" or "ours").And we are committed to protect
       1. When you log on to [user.newbe.pro](https://user.newbe.pro/) through a third-party site (for example, Github, Gitee), we record your corresponding email information.This is to give you a unique account so that you can use the features on the site later.
       2. When you turn on cloud sync in the Amazing Favorites browser extension, we'll save some of the information to the cloud so you can restore it on other terminals.To ensure the relative security of your data.Synchronization is very limited, including：
          1. The hash of the favorite address.On the one hand, this is a unique identifier that locates each link, and on the other hand, the hash value, because of its security, ensures that no one but you can get the original content of the address.
-         2. The label of the favorite address.This is information that you created manually.This part of the information is transmitted in clear text in order to be able to synchronize correctly.Therefore, we strongly recommend that you do not fill in the labels with private information that could harm your security.
+         2. The tag of the favorite address.This is information that you created manually.This part of the information is transmitted in clear text in order to be able to synchronize correctly.Therefore, we strongly recommend that you do not fill in the tags with private information that could harm your security.
 
    2. Information that is processed automatically
 
