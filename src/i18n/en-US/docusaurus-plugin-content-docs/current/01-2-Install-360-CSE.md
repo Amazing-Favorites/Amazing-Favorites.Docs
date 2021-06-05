@@ -1,6 +1,6 @@
 ---
 title: "Install the -360 Express Browser"
-description: "How to install this plug-in in the 360 Express browser"
+description: "How to install this extension in the 360 Express browser"
 ---
 
 From this article, you can learn how to install this extension into your browser.There are several scenarios for installing the extension, and you can choose a familiar way to install it according to your needs.
@@ -21,7 +21,7 @@ If you're Chinese mainland, you can also speed up downloads with<https://www.new
 
 After downloading the zip package.You can unzip the package in the right place.Note that the location of the decompression is the installation location, where subsequent updates are also required.
 
-### Load the plug-in
+### Load the extension
 
 Open your browser and enter it in the address bar<chrome:>and return the car.
 
