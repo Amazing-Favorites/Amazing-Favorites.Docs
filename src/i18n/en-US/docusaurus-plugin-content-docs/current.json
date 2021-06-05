@@ -14,5 +14,9 @@
   "sidebar.someSidebar.category.使用指南": {
     "message": "Getting Started",
     "description": "The label for category 使用指南 in sidebar someSidebar"
+  },
+  "sidebar.someSidebar.category.基础内容": {
+    "message": "The underlying content",
+    "description": "The label for category 基础内容 in sidebar someSidebar"
   }
 }
