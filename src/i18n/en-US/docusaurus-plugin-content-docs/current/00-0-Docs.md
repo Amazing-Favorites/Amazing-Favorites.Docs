@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Introduction to the project"
 description: "Amazing Favorites is a browser extension that helps manage and search browser collections more efficiently"
 slug: /
 ---
