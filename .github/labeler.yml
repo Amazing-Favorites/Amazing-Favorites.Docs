@@ -2,4 +2,5 @@
 
 📖 Docs: src/docs/**/*
 🌍 i18n: src/i18n/en-US/**/*
+🖼 image: src/static/images/**
 Actions: .github/workflows/**/*
