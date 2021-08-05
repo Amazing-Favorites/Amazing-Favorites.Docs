@@ -18,7 +18,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <img
-            src={"https://www.newbe.pro/images/20210505-002.gif"}
+            src={useBaseUrl("images/20210805-002.gif")}
             alt="Example banner"
           />
         </div>

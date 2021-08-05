@@ -7,7 +7,9 @@ description: "如何在 Chrome 浏览器中安装此扩展"
 
 ## 使用应用商店
 
-TBD
+您可以从以下地址进行安装：
+
+<https://chrome.google.com/webstore/detail/amazing-favorites/podhpclhgkdeiechkdceginfehfanhcb>
 
 ## 使用软件包
 
@@ -23,7 +25,7 @@ TBD
 
 ### 加载扩展
 
-打开浏览器，并在地址栏中输入`chrome://extensions/`并回车。
+打开浏览器，并在地址栏中输入 `chrome://extensions/` 并回车。
 
 通过右上角的开关打开开发者模式。
 
