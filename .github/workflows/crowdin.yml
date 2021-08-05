@@ -2,7 +2,7 @@ name: Download translation from Crowdin
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0 */4 * * *"
   push:
     branches: [main]
 
