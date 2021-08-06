@@ -192,15 +192,15 @@
     "description": "The ARIA label for close button of PWA reload popup"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation",
+    "message": "Recent blog navigation",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu",
+    "message": "← go back to the main menu",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page",
+    "message": "An overview of this page",
     "description": "The label used by the button on the collapsible TOC component"
   }
 }

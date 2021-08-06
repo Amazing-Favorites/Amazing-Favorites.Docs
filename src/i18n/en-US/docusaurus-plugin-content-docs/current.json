@@ -20,7 +20,7 @@
     "description": "The label for category 基础内容 in sidebar someSidebar"
   },
   "sidebar.someSidebar.category.其他": {
-    "message": "其他",
+    "message": "other",
     "description": "The label for category 其他 in sidebar someSidebar"
   }
 }

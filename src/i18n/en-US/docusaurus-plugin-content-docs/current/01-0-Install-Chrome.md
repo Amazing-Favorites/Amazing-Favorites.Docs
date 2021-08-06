@@ -7,7 +7,9 @@ From this article, you can learn how to install this extension into your browser
 
 ## Use the Store
 
-TBD
+You can install from the following address：
+
+<https://chrome.google.com/webstore/detail/amazing-favorites/podhpclhgkdeiechkdceginfehfanhcb>
 
 ## Use the package
 
@@ -23,7 +25,7 @@ After downloading the zip package.You can unzip the package in the right place.N
 
 ### Load the extension
 
-Open your browser and enter`chrome://extensions/`in the address bar and return.
+Open your browser and enter `chrome://extensions/` in the address bar and return.
 
 Turn on developer mode with the switch in the upper right corner.
 
