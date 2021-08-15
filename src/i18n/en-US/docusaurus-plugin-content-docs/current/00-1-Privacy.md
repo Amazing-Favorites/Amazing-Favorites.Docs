@@ -20,7 +20,7 @@ Your privacy is important to us ("we" or "ours").And we are committed to protect
 
    2. Information that is processed automatically
 
-      Currently, we do not automatically collect any data that is not generated as a result of your actions.For example, button actions, text, installation versions, and so on.We do not rule out anonymous data collection in the future to enhance the application experience.We will also update the user's privacy agreement and notify you in the software.
+      We automatically collect anonymous data with your consent, which does not contain your personal privacy information at all.For example, button actions, text, installation versions, and so on.You can participate in or opt out of this collection program at any time through the control panel of the software interface.Nevertheless, we recommend that you start an anonymous data improvement program to help our software grow healthily.
 
 2. Protect personal information
 
