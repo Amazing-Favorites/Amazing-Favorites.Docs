@@ -7,6 +7,6 @@ module.exports = {
       "01-2-Install-360-CSE",
     ],
     使用指南: ["02-0-Add-Bookmarks"],
-    其他: ["99-0-Welcome", "99-1-Whats-New"],
+    其他: ["99-0-Welcome", "99-1-Whats-New","99-2-Release-Notes"],
   },
 };
