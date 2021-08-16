@@ -2,7 +2,7 @@
 module.exports = {
   title: "Amazing Favorites",
   tagline: "Amazing Favorites",
-  url: "https://claptrap.newbe.pro",
+  url: "https://af.newbe.pro",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
