@@ -3,6 +3,44 @@ title: "最新特性"
 description: "最新特性"
 ---
 
+## 0.6.2
+
+### 🌟 支持 GoogleDrive 和 OneDrive 来同步您的数据
+
+现在，除了使用 Newbe API 之外，您还可以通过 GoogleDrive 或者 OneDrive 在多个设备中同步您的数据。
+
+您可以在控制面板中开启对应的存储方式。
+
+![Cloud Sync in control panel](/images/20210829-001.png)
+
+开启之后，您便可以通过 Manager UI 右上角的按钮来同步您的数据。
+
+![Login to sync](/images/20210829-002.png)
+
+每当同步成功时，您就可以通过 Manager UI 中得到提示。
+
+![sync success](/images/20210829-003.png)
+
+### ⭐ 搜索历史自动提示
+
+现在，当您成功搜索并点击搜索结果时，当前搜索文本将会被记录下来，以便您下次搜索时进行提示。加强您对常用内容的可访问性。
+
+### 🛠 控制面板 UI 改进
+
+控制面板 UI 迎来了一次小幅度的改版，以便您可以轻松的理解每个功能。
+
+但功能没有被启用时，将会展示该功能相关的帮助信息，以便您可以了解该功能的作用。
+
+![control panel all disable](/images/20210829-004.png)
+
+当您启用特定的功能时，面板将会被默认折叠以减少空间的占用。当然，您还是可以点击标题以展开面板，查看其中的详细设置。
+
+![feature enabled](/images/20210829-005.png)
+
+### 🐞 Bug 修复
+
+- 修复了 application insight 没有启用时，可能出现程序错误的问题。
+
 ## v0.6.1
 
 ### 🌟 应用指引增强
