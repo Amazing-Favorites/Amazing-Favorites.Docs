@@ -61,7 +61,19 @@ description: "欢迎您安装该浏览器扩展"
 
 ![control panel 1](/images/20210815-011.png)
 
-![control panel 2](/images/20210815-012.png)
+![control panel all disable](/images/20210829-004.png)
+
+![feature enabled](/images/20210829-005.png)
+
+## 同步数据
+
+您可以在控制面板中启用数据同步功能，以便使您在多个设备中得到一致的优秀体验。
+
+![Cloud Sync in control panel](/images/20210829-001.png)
+
+![Login to sync](/images/20210829-002.png)
+
+![sync success](/images/20210829-003.png)
 
 ## 隐藏妙招
 
