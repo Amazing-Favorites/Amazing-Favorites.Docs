@@ -3,6 +3,44 @@ title: "Latest features"
 description: "Latest features"
 ---
 
+## 0.6.2
+
+### 🌟 Support using GoogleDrive and OneDrive to sync your data
+
+Now, in addition to using the Newbe API, you can sync your data across multiple devices with GoogleDrive or OneDrive.
+
+You can enable the corresponding provider in the control panel.
+
+![Cloud Sync in control panel](/images/20210829-001.png)
+
+Once turned on, you can sync your data with the button in the upper right corner of the Manager UI.
+
+![Login to sync](/images/20210829-002.png)
+
+Whenever the sync succeeds, you can be prompted through the Manager UI.
+
+![sync success](/images/20210829-003.png)
+
+### ⭐ Search history autoprompt
+
+Now, when you successfully search and click on the search results, the current search text is recorded so that you can prompt the next time you search.Enhance your accessibility to commonly used content.
+
+### 🛠 Control Panel UI improvements
+
+The Control Panel UI has understood each feature with a small revision so that you can easily understand each feature.
+
+When a feature is not enabled, helpful information about the feature is displayed so that you can understand what it does.
+
+![control panel all disable](/images/20210829-004.png)
+
+When you enable specific features, panels will be folded by default to reduce the use of space.Of course, you can still tap the title to expand the panel to see the details in it.
+
+![feature enabled](/images/20210829-005.png)
+
+### 🐞 bug fix
+
+- Fixes an issue where program errors may occur when application insight is not enabled.
+
 ## v0.6.1
 
 ### 🌟 application guidance enhancements
@@ -25,7 +63,7 @@ You can operate this switch in the control panel at any time.
 
 The extension will pop up on the first installation of the Welcome Page so that users can quickly become familiar with the extension.
 
-### ⭐ enhancement
+### ⭐ enhanced improvements
 
 We've added a presentation and tips for token expiration times to the control panel.And when the application starts, you'll be prompted if it's about to expire
 
