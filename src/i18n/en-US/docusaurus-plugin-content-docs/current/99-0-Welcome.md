@@ -61,7 +61,19 @@ You can open the control panel by ⚙ button in the upper right corner, and afte
 
 ![control panel 1](/images/20210815-011.png)
 
-![control panel 2](/images/20210815-012.png)
+![control panel all disable](/images/20210829-004.png)
+
+![feature enabled](/images/20210829-005.png)
+
+## Synchronizing data
+
+You can enable data synchronization in the Control Panel to give you a consistent and great experience across multiple devices.
+
+![Cloud Sync in control panel](/images/20210829-001.png)
+
+![Login to sync](/images/20210829-002.png)
+
+![sync success](/images/20210829-003.png)
 
 ## Amazing tricks
 

@@ -48,7 +48,7 @@ In this release, we've brought a lot of new features
 You can now generate AFCode via the share button on the page.Once you've got AFCode, you can quickly import your favorites into your favorites by searching the bar.This is useful for the following scenarios：
 
 - You have a great resource to share with your friends, but copying links manually doesn't feel cool at all
-- You have a wonderful URL that you can't help but share with others that you want to share with a wide range of netizens through your blog posts, but some blog sites don't support hyperlinks (such as WeChat Public Number)
+- You have a wonderful URL that you can't help but share with others that you want to share with a wide range of netizens through your blog posts, but some blog sites don't support hyperlinks (such as WeChat)
 - You feel like you're amazing about some of your favorite tags and have to give your friends a good look, but it's a bit silly to copy each Tag manually
 
 Therefore, why not share your happiness to your friends.Come and share with the latest AFCode.

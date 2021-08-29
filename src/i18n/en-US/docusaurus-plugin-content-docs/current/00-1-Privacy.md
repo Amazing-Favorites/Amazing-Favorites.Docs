@@ -14,7 +14,7 @@ Your privacy is important to us ("we" or "ours").And we are committed to protect
    1. The information you submit
 
       1. When you log on to [user.newbe.pro](https://user.newbe.pro/) through a third-party site (for example, Github, Gitee), we record your corresponding email information.This is to give you a unique account so that you can use the features on the site later.
-      2. When you turn on cloud sync in the Amazing Favorites browser extension, we'll save some of the information to the cloud so you can restore it on other terminals.To ensure the relative security of your data.Synchronization is very limited, including：
+      2. When you turn on cloud sync in the Amazing Favorites browser extension and use the Newbe Api, we'll save some information to the cloud so you can restore it on other devices.To ensure the relative security of your data.Synchronization is very limited, including：
          1. The hash of the favorite address.On the one hand, this is a unique identifier that locates each link, and on the other hand, the hash value, because of its security, ensures that no one but you can get the original content of the address.
          2. The tag of the favorite address.This is information that you created manually.This part of the information is transmitted in clear text in order to be able to synchronize correctly.Therefore, we strongly recommend that you do not fill in the tags with private information that could harm your security.
 
@@ -32,6 +32,7 @@ Your privacy is important to us ("we" or "ours").And we are committed to protect
 
    1. If we are required by law to disclose your information, we may share your information with law enforcement agencies or other competent authorities and any third party as necessary (e.g., to detect, prevent or otherwise resolve fraud, security or technical issues);
    2. If the team goes through a business transition, such as a merger or acquisition of another company, a merger, a change of control, a reorganization, or the sale of all or part of its assets, your information will be included in the transferred assets.
+   3. You enable the data service provided by the third part provider.For example, you enable synchronization based on a third-party provider such as OneDrive and GoogleDrive, which means that this data will be saved to these third-party servers.This means that you voluntarily directed this data transfer.
 
 4. Third-party content
 
