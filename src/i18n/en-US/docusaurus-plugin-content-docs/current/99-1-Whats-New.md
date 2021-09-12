@@ -3,7 +3,35 @@ title: "Latest features"
 description: "Latest features"
 ---
 
-## 0.6.2
+## v0.6.3
+
+This is the last release before the release of version 0.7 and contains some UI and minor optimization changes.
+
+### 🌟 UI improvements
+
+A more comfortable-looking layout and control placement scheme.
+
+Thank you https://github.com/Zhuangkh for your contribution to this improvement.
+
+![New manager style](/images/20210912-001.png)
+
+### 🌟 Notification Center
+
+We have included all useful notifications in the latest notification centre, so that you can learn about the status and operation of the system efficiently.
+
+Thank you https://github.com/Z4t4r for your outstanding contribution to this improvement.
+
+![Notification Center](/images/20210912-002.png)
+
+![New message](/images/20210912-003.png)
+
+### 🛠 Improvements and Fixes
+
+- Fixes an issue where the CPU is too high when editing tags
+- Now, the way you first open managerUI has changed from query strings to AfEventHub.This prevents the user from accidentally popping up the edit box.
+- It supports the use of Seq to output logs when development, which seems easier to troubleshoot
+
+## v0.6.2
 
 ### 🌟 Support using GoogleDrive and OneDrive to sync your data
 
