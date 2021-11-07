@@ -2,9 +2,12 @@ import React from "react";
 import clsx from "clsx";
 import Layout from "@theme/Layout";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 import Translate, { translate } from "@docusaurus/Translate";
+import ScaleOutSvg from "/images/scale-out.svg";
+import ConcurrencySvg from "/images/concurrency.svg";
+import FullLifetimeSvg from "/images/full-lifetime.svg";
+
 
 function Home() {
   const context = useDocusaurusContext();
@@ -18,7 +21,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <img
-            src={useBaseUrl("images/20210805-002.gif")}
+            src={require("/images/20210805-002.gif").default}
             alt="Example banner"
           />
         </div>
@@ -29,10 +32,7 @@ function Home() {
             <div className="row">
               <div className={clsx("col col--4", styles.feature)}>
                 <div className="text--center">
-                  <img
-                    className={styles.featureImage}
-                    src={useBaseUrl("images/concurrency.svg")}
-                  />
+                  <ConcurrencySvg className={styles.featureImage} />
                 </div>
                 <h3>
                   <Translate
@@ -53,10 +53,7 @@ function Home() {
               </div>
               <div className={clsx("col col--4", styles.feature)}>
                 <div className="text--center">
-                  <img
-                    className={styles.featureImage}
-                    src={useBaseUrl("images/scale-out.svg")}
-                  />
+                  <ScaleOutSvg className={styles.featureImage} />
                 </div>
                 <h3>
                   <Translate
@@ -77,10 +74,7 @@ function Home() {
               </div>
               <div className={clsx("col col--4", styles.feature)}>
                 <div className="text--center">
-                  <img
-                    className={styles.featureImage}
-                    src={useBaseUrl("images/full-lifetime.svg")}
-                  />
+                  <FullLifetimeSvg className={styles.featureImage} />
                 </div>
                 <h3>
                   <Translate

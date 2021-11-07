@@ -63,9 +63,9 @@ module.exports = {
     //   //... other Algolia params
     // },
     navbar: {
-      title: "Amazing Favoritesp",
+      title: "Amazing Favorites",
       logo: {
-        alt: "Amazing Favoritesp",
+        alt: "Amazing Favorites",
         src: "https://www.newbe.pro/images/logo/main-logo.png",
       },
       items: [
