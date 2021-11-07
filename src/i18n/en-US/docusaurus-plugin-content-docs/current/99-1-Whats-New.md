@@ -3,9 +3,47 @@ title: "Latest features"
 description: "Latest features"
 ---
 
+## v0.7.1
+
+In this release, we've brought more convenient address bar search and history features.
+
+### ⚙ functionality
+
+#### Address bar search
+
+In addition to supporting search in the management UI, search in the address bar is now supported.
+
+Just enter the `af`and`space`in the address bar and you'll go into search mode as follows：
+
+![omnibox search](/images/20211107-001.gif)
+
+You can use the control panel to set the details of this feature.
+
+![omnibox settings](/images/20211107-002.png)
+
+#### History
+
+You can click on this button to see recently clicked accessed bookmarks.
+
+![History button](/images/20211107-003.png)
+
+![History](/images/20211107-004.png)
+
+#### Share while editing
+
+You can now share directly in the edit box.
+
+![Sharing button](/images/20211107-005.png)
+
+#### Fixed extension ID at development time
+
+The extension ID for the development phase is now fixed to podhpclhgyddychdiceginfehfanhcb.
+
+So even if you're installing with an unzip package, the ID is the same every time.
+
 ## v0.7.0
 
-In this release, I've brought content enhancements for cloud storage and UI improvements.
+In this release, we've brought content enhancements for cloud storage and UI improvements.
 
 ### ⚙ functionality
 
