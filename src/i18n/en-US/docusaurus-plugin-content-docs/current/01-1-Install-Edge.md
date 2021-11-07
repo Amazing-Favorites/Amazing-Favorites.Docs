@@ -25,7 +25,7 @@ After downloading the zip package.You can unzip the package in the right place.N
 
 ### Load the extension
 
-Open your browser and enter`chrome://extensions/`in the address bar and return.
+Open your browser and enter `chrome://extensions/` in the address bar and return.
 
 Turn on developer mode with the switch in the upper right corner.
 
