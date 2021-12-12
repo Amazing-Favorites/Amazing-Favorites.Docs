@@ -3,7 +3,7 @@ title: "更新历史"
 description: "更新历史"
 ---
 
-## v0.7.1
+## v0.8.0
 
 此版本，我们带来了更加便捷的地址栏搜索和历史记录功能。
 
@@ -35,12 +35,19 @@ description: "更新历史"
 
 ![Sharing button](/images/20211107-005.png)
 
-#### 开发时固定扩展ID
+#### 开发时固定扩展 ID
 
-现在，开发阶段的扩展ID已经被固定为 podhpclhgkdeiechkdceginfehfanhcb。
+现在，开发阶段的扩展 ID 已经被固定为 podhpclhgkdeiechkdceginfehfanhcb。
 
-因此，即使你是用解压包安装，那么ID每次都是相同的。
+因此，即使你是用解压包安装，那么 ID 每次都是相同的。
 
+#### 导入顺序调整
+
+收藏在初次导入时，将会按照原有的顺序进行导入。
+
+### 🐞 Bug 修复
+
+- 修复了通知中心刷新不正确的问题
 
 ## v0.7.0
 
