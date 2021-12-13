@@ -216,7 +216,7 @@
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} contains the label \"{tagName}\"",
+    "message": "{nDocsTagged} article with the label \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
@@ -224,7 +224,19 @@
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top",
+    "message": "Go back to the top",
     "description": "The ARIA label for the back to top button"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "The page has crashed.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Retries",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Open/reced sidebar menu \"{label}\"",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
   }
 }
