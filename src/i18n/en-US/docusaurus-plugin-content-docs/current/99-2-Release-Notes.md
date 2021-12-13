@@ -3,7 +3,7 @@ title: "Update the history"
 description: "Update the history"
 ---
 
-## v0.7.1
+## v0.8.0
 
 In this release, we've brought more convenient address bar search and history features.
 
@@ -37,10 +37,17 @@ You can now share directly in the edit box.
 
 #### Fixed extension ID at development time
 
-The extension ID for the development phase is now fixed to podhpclhgyddychdiceginfehfanhcb.
+The extension ID for the development phase is now fixed to podhpclhgdeichkceginfehfanhcb.
 
-So even if you're installing with an unzip package, the ID is the same every time.
+Therefore, even if you are installing with an unzip package, the ID is the same every time.
 
+#### Import order adjustment
+
+Collections are imported in the original order when they are first imported.
+
+### 🐞 bug fix
+
+- Fixes an issue where notification centers are not refreshed correctly
 
 ## v0.7.0
 
