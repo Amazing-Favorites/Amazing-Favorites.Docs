@@ -39,7 +39,7 @@ You can now share directly in the edit box.
 
 The extension ID for the development phase is now fixed to podhpclhgdeichkceginfehfanhcb.
 
-Therefore, even if you are installing with an unzip package, the ID is the same every time.
+So even if you're installing with an unzip package, the ID is the same every time.
 
 #### Import order adjustment
 
