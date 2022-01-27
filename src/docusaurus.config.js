@@ -155,9 +155,6 @@ module.exports = {
       ],
       copyright: `MIT ${new Date().getFullYear()} newbe36524. Built with Docusaurus.`,
     },
-    gtag: {
-      trackingID: "UA-100658571-3",
-    },
   },
   presets: [
     [
@@ -167,6 +164,9 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
             "https://github.com/newbe36524/Amazing-Favorites.Docs/edit/master/src/",
+        },
+        gtag: {
+          trackingID: "UA-100658571-3",
         },
         blog: {
           showReadingTime: true,
